@@ -31,7 +31,7 @@ Este projeto é um sistema de conversão de moedas desenvolvido em **Java** (mod
    cd conversor-de-moedas
    ```
 2. Construa o projeto
-    File > Build > Build Project
+    Main Menu > Build > Build Project
 
 4. Execute o arquivo jar
     ```bash
