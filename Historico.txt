@@ -1,0 +1,5 @@
+Data/Hora: 16/05/2025 19:15:45
+Conversão: Dólar [USD] -> Peso Argentino [ARS]
+Valor informado: 1,00
+Valor convertido: 1135,50
+

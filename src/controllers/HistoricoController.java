@@ -1,7 +1,7 @@
 package controllers;
 
 import services.ConversorService;
-import view.HistoricoView;
+import views.HistoricoView;
 
 import java.io.IOException;
 

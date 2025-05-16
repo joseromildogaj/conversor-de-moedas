@@ -1,6 +1,6 @@
 package controllers;
 
-import view.MenuView;
+import views.MenuView;
 
 public class MenuController {
 

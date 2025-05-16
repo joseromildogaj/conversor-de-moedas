@@ -4,8 +4,8 @@ import models.ConversorModel;
 import services.ConversorService;
 import services.ExchangeInvalidException;
 import services.ExchangeService;
-import view.ConversorView;
-import view.MenuView;
+import views.ConversorView;
+import views.MenuView;
 
 import java.io.IOException;
 import java.time.LocalDateTime;
@@ -21,7 +21,7 @@ public class ConversorController {
 
     public void inicializa() {
         char opcao = '0';
-        while (opcao != '7') {
+        while (true) {
             opcao = view.exibeView();
             if (opcao == '7') break;
             switch (opcao) {
